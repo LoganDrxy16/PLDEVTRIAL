@@ -1,0 +1,19 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.menu-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu-subtitle {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.menu-item {
+    font-size: 16px;
+}
